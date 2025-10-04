@@ -1,16 +1,47 @@
-# React + Vite
+# ExpenseManager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ExpenseManager** is an Automated Expense Management System designed to streamline the way organizations handle employee expenses. It provides a centralized platform where employees can submit expense claims, managers can review and approve them, and admins can monitor all transactions efficiently. The system is built to cater to organizations of any size, offering flexibility, transparency, and accuracy in financial processes.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Automated Expense Submission:** Employees can easily submit expenses with receipts and details.
+- **Approval Workflow:** Managers can review, approve, or reject claims with audit trails.
+- **Flexible Rules:** Configure policies, limits, and categories according to organizational needs.
+- **Real-Time Tracking:** Monitor expenses, reimbursements, and approvals instantly.
+- **Reports & Analytics:** Generate detailed reports for insights and compliance.
+- **Role-Based Access:** Different permissions for Employees, Managers, and Admins.
 
-## React Compiler
+## Benefits
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Faster reimbursement process.
+- Reduced manual errors.
+- Transparent and auditable approval flow.
+- Flexible rules for organizations of any size.
+- Saves time and improves accuracy for Employees, Managers, and Admins.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **Frontend:** React + Vite  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+
+## Contributors
+
+✨ Lerisa Desai
+3rd Year CES Student | Web Developer | Android Development
+📧 lerisadesai@gmail.com
+
+✨ Aarti Sonigra
+3rd Year CES Student | Passionate Web Developer | Full Stack Development
+📧 23amtics292@gmail.com
+
+✨ Ritu Mahajan
+3rd Year CE Student | Web Developer | Android Development with Kotlin
+📧 mahajanritu0801@gmail.com
+
+✨ Saloni Gautum
+3rd Year CE Student | Web Developer | Android Development with Kotlin
+📧 23amtics051@gmail.com
+
+   
